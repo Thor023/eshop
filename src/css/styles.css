@@ -1,0 +1,9 @@
+.home-bg-img {
+    background-image: url('../../public/home-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#perfil, #inventario, #ip-list, #new-perfil {
+    display: flex;
+}

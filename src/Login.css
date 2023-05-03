@@ -1,0 +1,35 @@
+.login-form {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.form-label {
+    display: flex;
+}
+
+.form-control {
+    border-radius: .1rem;
+    font-size: 10px;
+}
+
+.container-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+}
+
+.container-no-img {
+    height: 20vh;
+    justify-content: center;
+}
+
+.container-bg-img {
+    background-image: url("login-img.png");
+    background-repeat: no-repeat;
+    background-position: 80%;
+    height: 50vh;
+    width: auto;
+    background-attachment: fixed;
+    background-size: 30vh;
+}
